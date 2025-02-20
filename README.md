@@ -105,4 +105,6 @@ https://github.com/shimauma-giken/Zebra-Printer-Add-Japanese-Font-to-Windows-Dri
 
 #### 応用（時間があれば）
 
+suteneko0001@gmail.com
+
 
