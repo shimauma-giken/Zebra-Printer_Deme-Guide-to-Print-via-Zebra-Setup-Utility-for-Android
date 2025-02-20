@@ -106,16 +106,3 @@ https://github.com/shimauma-giken/Zebra-Printer-Add-Japanese-Font-to-Windows-Dri
 #### 応用（時間があれば）
 
 
-#### プリンタの設定（Bluetooth）★
-
-1. Zebra Setup Utilities > Configure Printer Connectivity > Bluetooth
-    - Enabled = check
-    - Discoverable = On
-    - Minimum Secutiry Mode = 1
-
-
-
-##### 上記の選択項目が表示されない人は下記を実施
-
-1. Open Printer Tools > Send Command > ~JC
-    ![1739857624666](image/Training0220/1739857624666.png)
